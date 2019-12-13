@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiftProgramming</string>
+    <string name="ground_floor_text">Ground Floor</string>
+    <string name="start_lift">Start Run</string>
+</resources>
